@@ -5,8 +5,8 @@
   SPARCS @ KAIST 학술협력팀 | Contact: <a target="_blank" href="mailto:night@sparcs.org"><b>📪 night@sparcs.org</b></a>
 </p>
 
-<a href="https://sparcs.org" style="width: 100%">
-  <img align="center" width="200px" height="200px" src="https://academic-relations-public.s3.ap-northeast-2.amazonaws.com/ar.png" alt="Academic Relations" />
+<a href="https://sparcs.org" style="width: 100%" align="center">
+  <img width="200px" height="200px" src="https://academic-relations-public.s3.ap-northeast-2.amazonaws.com/ar.png" alt="Academic Relations" />
 </a>
  
 <br/>
@@ -31,6 +31,7 @@ We strive to provide innovative solutions using IT technologies to previously co
 ## In-Use Technologies
 
 **Front End**
+
 ![Typescript](https://img.shields.io/badge/Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)
 ![React](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)
 ![Next.js](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
@@ -40,13 +41,15 @@ We strive to provide innovative solutions using IT technologies to previously co
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white)
 
 **Back End**
+
 ![Nodejs](https://img.shields.io/badge/Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)
 ![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 
 **Infra/GitOps**
-![AWS](https://img.shields.io/badge/Amazon AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+
+![AWS](https://img.shields.io/badge/Amazon%20AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
